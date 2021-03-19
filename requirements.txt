@@ -32,7 +32,7 @@ mccabe==0.6.1
 numpy==1.19.1
 pandas==1.1.2
 pathtools==0.1.2
-Pillow==7.2.0
+Pillow==8.1.1
 plyer==1.4.3
 pycparser==2.20
 pyfiglet==0.8.post1
